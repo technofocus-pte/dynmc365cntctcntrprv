@@ -2,7 +2,7 @@
 
 **Duration: 15 mins**
 
-## **Introduction** This lab introduces the foundational setup required to prepare a Dynamics 365 Contact Center trial environment for future hands-on activities. Learners activate the trial, create the required user accounts, add those users to the environment, assign security roles, and validate sign-in access so each persona is ready for upcoming administrative, supervisory, and agent-based tasks.
+**Introduction** This lab introduces the foundational setup required to prepare a Dynamics 365 Contact Center trial environment for future hands-on activities. Learners activate the trial, create the required user accounts, add those users to the environment, assign security roles, and validate sign-in access so each persona is ready for upcoming administrative, supervisory, and agent-based tasks.
 
 ## Exercise 1: Enable the Dynamics 365 Contact Center Trial Environment
 
