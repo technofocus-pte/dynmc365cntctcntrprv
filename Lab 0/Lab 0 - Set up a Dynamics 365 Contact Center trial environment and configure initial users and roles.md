@@ -15,7 +15,7 @@ Copilot Service workspace and continue with the remaining setup tasks.
 1.  Open Microsoft Edge in the virtual machine.
 
 2.  In the browser, paste and open the following link:
-    +++https://www.microsoft.com/en-in/dynamics-365/free-trial+++
+    !!!https://www.microsoft.com/en-in/dynamics-365/free-trial!!!
 
 3.  Scroll down to the **Dynamics 365 Contact Center** section.
 
