@@ -14,13 +14,13 @@ Copilot Service workspace and continue with the remaining setup tasks.
 
 1.  Open Microsoft Edge in the virtual machine.
 
-2.  In the browser, paste and open the following link:https://www.microsoft.com/en-in/dynamics-365/free-trial
+2.  In the browser, paste and open the following link:!!https://www.microsoft.com/en-in/dynamics-365/free-trial!!
 
 3.  Scroll down to the **Dynamics 365 Contact Center** section.
 
 4.  Select **Try for free**.
 
-> ![](./media/image1.png)
+    ![](./media/image1.png)
 
 5.  Enter the Microsoft 365 admin tenant details.
 
@@ -28,17 +28,16 @@ Copilot Service workspace and continue with the remaining setup tasks.
 
 7.  Select **Start your free trial**.
 
-> ![](./media/image2.png)
+    ![](./media/image2.png)
 
 8.  On the verification page, set **Country/Region** to **United
     States**.
 
 9.  Enter the required **Phone number** and **submit** the details.
 
-> ![](./media/image3.png)
->
-> Note: If a direct sign-in page appears, enter the admin tenant and
-> password, and then select **Sign in**.
+    ![](./media/image3.png)
+
+    > Note: If a direct sign-in page appears, enter the admin tenant and password, and then select **Sign in**.
 
 10. Wait for the process to complete and verify that you are navigated
     to the **Copilot Service workspace**.
@@ -47,7 +46,7 @@ Copilot Service workspace and continue with the remaining setup tasks.
     visiting the site**. If no pop-up appears, continue to the next
     exercise.
 
-> ![](./media/image4.png)
+    ![](./media/image4.png)
 
 ## Exercise 2: Create Initial Users in Microsoft 365 Admin Center
 
@@ -58,17 +57,17 @@ the accounts are available for later configuration, access validation,
 and role-based exercises.
 
 1.  Open a browser and navigate to the Microsoft 365 admin center:
-    +++https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-administration+++
+    !!https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-administration!!
 
 2.  Select **Admin sign in**.
 
-> ![](./media/image5.png)
+    ![](./media/image5.png)
 
 3.  Sign in using the Microsoft 365 admin tenant ID.
 
-> ![](./media/image6.png)
->
-> ![](./media/image7.png)
+    ![](./media/image6.png)
+
+![](./media/image7.png)
 
 4.  From the left navigation pane, expand **Users** and select **Active
     users**.
@@ -131,7 +130,7 @@ the environment URL, which will be reused in later labs for
 persona-based sign-ins and task execution.
 
 1.  Open a new tab, navigate to the Power Platform admin center:
-    +++https://admin.powerplatform.microsoft.com/+++
+    !!https://admin.powerplatform.microsoft.com/!!
 
 2.  Sign in using the Microsoft 365 admin tenant credentials.
 
