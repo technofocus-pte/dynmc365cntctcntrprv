@@ -23,37 +23,34 @@ environment.
 1.  Open a new private window. Use the URL that we extracted from the
     Power Platform admin center and log in to the Contact Center
     environment by using **Mark Brown's** credentials. Mark Brown is
-    assigned the **System Administrator and Omnichannel Administrator
-    roles.**
+    assigned the **System Administrator and Omnichannel Administrator roles.**
 
-> **Note:** If you have any confusion about the login. Revisit Exercise
-> 4 of Lab 0.
->
-> ![](./media/image1.png)
+    > **Note:** If you have any confusion about the login. Revisit Exercise 4 of Lab 0.
+
+    ![](./media/image1.png)
 
 2.  On the App selector, select **Copilot Service admin center** from
     the list of apps.
 
-- ![A screenshot of a computer Description automatically
-  generated](./media/image2.png)
+    ![A screenshot of a computer Description automatically
+    generated](./media/image2.png)
 
 3.  Select **Channels** under **Customer Support** on the left
     navigation panel.
 
-- ![](./media/image3.png)
+    ![](./media/image3.png)
 
 4.  Select **Manage** for **Manage channels**. The Manage Channels page
     appears.
 
-- ![A screenshot of a computer screen Description automatically
-  generated](./media/image4.png)
+    ![A screenshot of a computer screen Description automatically generated](./media/image4.png)
 
 5.  You can view the channels that are enabled.
 
 6.  Select the **Microsoft 365 Copilot (Preview) channel** check box and
     then click on the **Save** button.
 
-- ![](./media/image5.png)
+    ![](./media/image5.png)
 
 ## Exercise 2 – Manage users and update attributes
 
@@ -66,25 +63,25 @@ assignment readiness.
 1.  Select **User management** under **Customer support** in the site
     map.
 
-- ![](./media/image6.png)
+    ![](./media/image6.png)
 
 2.  On the page that appears, select **Manage** for **Enhanced user
     management**. The ‘**Contact center users’** view displays the users
     that have been configured in the Power Platform admin center.
 
-- ![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
   generated](./media/image7.png)
 
 3.  Hover the pointer over the rows of your **Mark Brown** users and
     select the check boxes.
 
-- ![](./media/image8.png)
+    ![](./media/image8.png)
 
 4.  To update user attributes, select **Update user attributes**, and
     you will see three options available. You can select one of the
     options based on your requirements.
 
-- ![](./media/image9.png)
+    ![](./media/image9.png)
 
 5.  **Update skills**: On the dialog box that appears, review and note
     the options available:
@@ -92,42 +89,41 @@ assignment readiness.
     1.  In the Skills field, select **Filter and Value**, then click on
         the **Add to all.**
 
-> ![](./media/image10.png)
+        ![](./media/image10.png)
 
-2.  **Add skills to users:** In the **Skills** box, select the skills
-    that you want to add, select proficiency, and then select **Add to
-    all**. The selected skill and proficiency are added to the users
-    list. To have a different proficiency in the skills, select one
-    skill at a time.
+    2.  **Add skills to users:** In the **Skills** box, select the skills
+        that you want to add, select proficiency, and then select **Add to
+        all**. The selected skill and proficiency are added to the users
+        list. To have a different proficiency in the skills, select one
+        skill at a time.
 
-3.  **Activate or deactivate**: Select a skill in the **Skills box and**
-    select the ellipses to select **Activate for all** or **deactivate
-    for all**. Users with a deactivated skill will not be considered
-    during assignment if the skill requirement of a work item matches
-    the deactivated skill.
+    3.  **Activate or deactivate**: Select a skill in the **Skills box and**
+        select the ellipses to select **Activate for all** or **deactivate
+        for all**. Users with a deactivated skill will not be considered
+        during assignment if the skill requirement of a work item matches
+        the deactivated skill.
 
-4.  **Remove skills**: To remove a skill from the list of users, select
-    the skill in the **Skills** box, and select **Remove from all**.
-    Save your changes. The selected skills are removed for the users.
+    4.  **Remove skills**: To remove a skill from the list of users, select
+        the skill in the **Skills** box, and select **Remove from all**.
+        Save your changes. The selected skills are removed for the users.
 
-- ![](./media/image11.png)
+    ![](./media/image11.png)
 
 6.  Click on **Save,** then **Close**.
 
-7.  Again select **Mark Brown** radio button **\> Update user attributes
-    \> Update queues**.
+7.  Again select **Mark Brown** radio button **\> Update user attributes \> Update queues.**
 
 8.  **Update queues**: Select all Default Queues and then click on the
     **Add to all.**
 
-> ![](./media/image12.png)
+    ![](./media/image12.png)
 
 9.  On the dialog box that appears, in the **Queues** box, review and
     note the options available.
 
 10. Click on **Save,** then **Close**.
 
-> ![](./media/image13.png)
+    ![](./media/image13.png)
 
 11. Now perform step 7 again and select **the Update capacity profile**.
 
@@ -135,11 +131,11 @@ assignment readiness.
     profiles, review and note the options available, and then click on
     the **Add to all**.
 
-- ![](./media/image14.png)
+    ![](./media/image14.png)
 
 13. Click on **Save and** then **Close.**
 
-> ![](./media/image15.png)
+    ![](./media/image15.png)
 
 ## Exercise 3 - Enable Generative AI features in the Power Platform Admin Center
 
@@ -150,22 +146,22 @@ confirm the required settings that support Copilot experiences across
 the platform.
 
 1.  Open a new tab in the browser. Sign in to the Power Platform admin
-    center - +++https://admin.powerplatform.microsoft.com/+++ With the
+    center - !!https://admin.powerplatform.microsoft.com/!! With the
     **Mark Brown** credentials.
 
 2.  From the left side panel, select the **Manage** option and then
     navigate to **Environments**.
 
-- ![](./media/image16.png)
+    ![](./media/image16.png)
 
 3.  Select your **Contact Center Trial** environment.
 
-- ![](./media/image17.png)
+    ![](./media/image17.png)
 
 4.  On the Power Platform admin center page, scroll down until you see
     the **Generative AI features** card. Now, select **Edit**.
 
-- ![](./media/image18.png)
+    ![](./media/image18.png)
 
 5.  Review the terms of use and select the **Bing Search** checkbox if
     it is not selected. When the **Bing Search** feature is turned on,
@@ -176,7 +172,7 @@ the platform.
 6.  If any changes have been made, select **Save** to confirm them;
     otherwise, select **Cancel**.
 
-- ![](./media/image19.png)
+    ![](./media/image19.png)
 
 ## Exercise 4 - Configure Copilot for questions and emails
 
@@ -191,18 +187,18 @@ access knowledge and improve response workflows.
 
 3.  Select **Manage** for **Copilot for questions and emails**.
 
-- ![](./media/image20.png)
+    ![](./media/image20.png)
 
 4.  Scroll down and select **Include a knowledge source base** check
     box.
 
-- ![](./media/image21.png)
+    ![](./media/image21.png)
 
 5.  Scroll up and then Select the checkbox for **Ask a question**.
 
 6.  Select **Save and close**.
 
-- ![](./media/image22.png)
+    ![](./media/image22.png)
 
 ## Exercise 5 - Enable Copilot AI features in the agent Experience Profile
 
@@ -216,26 +212,25 @@ enabled to support guided and efficient agent interactions.
 
 2.  Select **Manage** under **Experience profiles.**
 
-- ![A screenshot of a computer Description automatically
-  generated](./media/image23.png)
+    ![A screenshot of a computer Description automatically generated](./media/image23.png)
 
 3.  Select the **Customer Service Trial profile** agent experience
     profile from the list.
 
-- ![](./media/image24.png)
+    ![](./media/image24.png)
 
 4.  On the **Productivity Pane**, make sure **Copilot help pane** toggle
     is **ON** so that agents can use the Copilot features such suggest a
     response, ask a question, and write an email on the productivity
     pane.
 
-- ![](./media/image25.png)
+    ![](./media/image25.png)
 
 5.  Scroll down to **Copilot AI features** section. Make sure that all
     the Copilot AI features are enabled (except Intent-based suggestions
     (preview))
 
-- ![](./media/image26.png)
+    ![](./media/image26.png)
 
 ## Exercise 6: Create and assign a Capacity Profile
 
@@ -247,24 +242,23 @@ blocking within the Contact Center environment.
 1.  On the Copilot Service admin center, select **User
     management** under **Customer support**.
 
-- ![](./media/image27.png)
+    ![](./media/image27.png)
 
 2.  Select the **Manage** option for **Capacity profile**.
 
-- ![A black text on a white background Description automatically
-  generated](./media/image28.png)
+    ![A black text on a white background Description automatically generated](./media/image28.png)
 
 3.  On the **Capacity profiles** page, select **Create new**.
 
-![](./media/image29.png)
+    ![](./media/image29.png)
 
 4.  On the **Details** tab of the **Create capacity profile** dialog
     box, enter the following details:
 
-    - **Profile name**: Name for the capacity profile as +++Demo+++
+    - **Profile name**: Name for the capacity profile as !!Demo!!
 
     - **Work item limit**: Number of units of the work type that you can
-      assign to the agent. – Enter - 5
+      assign to the agent. – Enter - !!5!!
 
     - **Reset frequency**: Period after which capacity consumption is
       reset for agents. Select **Immediate**
@@ -276,24 +270,22 @@ blocking within the Contact Center environment.
       item limit is met, the agent isn’t assigned a new work item
       automatically.
 
-    &nbsp;
-
-    - ![](./media/image30.png)
+    ![](./media/image30.png)
 
 5.  Select the capacity profile created. Select the **Users** Tab and
     Select **Add user**
 
-- ![](./media/image31.png)
+    ![](./media/image31.png)
 
 6.  Select the **MOD Administrator** check box and then click on **Add
     user.**
 
-- ![](./media/image32.png)
+    ![](./media/image32.png)
 
 7.  Select **Save and Close.** The capacity profile is assigned to the
     admin user.
 
-- ![](./media/image33.png)
+    ![](./media/image33.png)
 
 ## Exercise 7: View and edit Role Persona Mapping
 
@@ -307,25 +299,23 @@ role alignment can support administrative planning in the environment.
 
 2.  Select **Manage** for **Role persona mapping**.
 
-- ![](./media/image34.png)
+    ![](./media/image34.png)
 
 3.  Select the persona – **Admin** to add or remove security roles.
     The **Edit roles** pane displays the list of roles.
 
-- ![](./media/image35.png)
+    ![](./media/image35.png)
 
 4.  Select or clear the selection from the checkboxes for the required
     security roles.
 
-- ![A list of information on a white background Description
-  automatically generated](./media/image36.png)
+    ![A list of information on a white background Description automatically generated](./media/image36.png)
 
-  > **Note** – For this lab, we are not adding or removing any roles for
-  > the persona.
+    > **Note** – For this lab, we are not adding or removing any roles for the persona.
 
 5.  Select **Save and Close** after you have made any changes.
 
-- ![](./media/image37.png)
+    ![](./media/image37.png)
 
 ## Conclusion
 
