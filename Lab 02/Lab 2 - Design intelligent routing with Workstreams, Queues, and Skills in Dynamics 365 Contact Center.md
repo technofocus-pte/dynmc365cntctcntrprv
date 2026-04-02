@@ -185,8 +185,8 @@ Contact Center environment.
 12. On the **Contoso queue for supervisors** page, click **+** **Set
     operation hours** again.
 
-13. On the **Set operation hours** pane, search for and select **Contoso
-    operation hours** and click **Save and close.**
+13. On the **Set operation hours** pane, search for and select !!**Contoso
+    operation hours**!! and click **Save and close.**
 
     ![](./media/image22.png)
 
@@ -296,7 +296,7 @@ improve consistency, precision, and business-driven work distribution.
     ![](./media/image36.png)
 
 3.  On the **Create route-to-queues ruleset** pane, in the **Name**
-    field enter!!**Based on Gold Level**!!. In the **Description**
+    field enter !!**Based on Gold Level**!!. In the **Description**
     field enter !!**Rule based on Gold level**!!.
 
 4.  Select **Create**.
