@@ -67,59 +67,59 @@ and role-based exercises.
 
     ![](./media/image6.png)
 
-![](./media/image7.png)
+    ![](./media/image7.png)
 
 4.  From the left navigation pane, expand **Users** and select **Active
     users**.
 
-> ![](./media/image8.png)
+    ![](./media/image8.png)
 
 5.  Select **Add a user**.
 
-> ![](./media/image9.png)
+    ![](./media/image9.png)
 
 6.  In the user creation form, enter the following details:
 
-    - **First name**: Mark
+    - **First name**: !!Mark!!
 
-    - **Last name**: Brown
+    - **Last name**: !!Brown!!
 
-    - **Display name**: Mark Brown
+    - **Display name**: !!Mark Brown!!
 
-    - **User name**: MarkBrown
+    - **User name**: !!MarkBrown!!
 
 7.  Select all required checkboxes, and then select **Next**.
 
-> ![](./media/image10.png)
+    ![](./media/image10.png)
 
 8.  Assign the **Dynamics 365 Customer Service Enterprise vTrial**
     license.
 
 9.  Select **Next** to continue.
 
-> ![](./media/image11.png)
+    ![](./media/image11.png)
 
 10. Again, click on the **Next** button.
 
-> ![](./media/image12.png)
+    ![](./media/image12.png)
 
 11. Select **Finish adding**.
 
-> ![](./media/image13.png)
+    ![](./media/image13.png)
 
 12. After the user is created successfully, select **Close**.
 
-> ![](./media/image14.png)
+    ![](./media/image14.png)
 
 13. Repeat the same steps to create the following users:
 
-- **David Flores**
+    - !!David Flores!!
 
-- **Remy Morris**
+    - !!Remy Morris!!
 
-- **Michael Reynolds**
+    - !!Michael Reynolds!!
 
-- **Megan Bowen**
+    - !!Megan Bowen!!
 
 ## Exercise 3: Add Users to the Environment and Assign Security Roles
 
@@ -134,7 +134,7 @@ persona-based sign-ins and task execution.
 
 2.  Sign in using the Microsoft 365 admin tenant credentials.
 
-> ![](./media/image15.png)
+    ![](./media/image15.png)
 
 3.  From the left navigation pane, select **Manage**.
 
@@ -142,23 +142,23 @@ persona-based sign-ins and task execution.
 
 5.  Open the **ContactCenter trial** environment.
 
-> ![](./media/image16.png)
+    ![](./media/image16.png)
 
 6.  In the environment page, locate the **Users** section and select
     **See all**.
 
-> ![](./media/image17.png)
+    ![](./media/image17.png)
 
 7.  From the top bar, select **+ Add user**.
 
-> ![](./media/image18.png)
+    ![](./media/image18.png)
 
-8.  In the search field, enter **Mark Brown**.
+8.  In the search field, enter !!Mark Brown!!.
 
 9.  Select **Mark Brown** from the search results, and then select
     **Add**.
 
-> ![](./media/image19.png)
+    ![](./media/image19.png)
 
 10. Assign the following roles:
 
@@ -166,13 +166,13 @@ persona-based sign-ins and task execution.
 
     - **System Administrator**
 
-> ![](./media/image20.png)
->
-> ![](./media/image21.png)
+    ![](./media/image20.png)
+
+    ![](./media/image21.png)
 
 11. On the confirmation window, select **Save** again.
 
-> ![](./media/image22.png)
+    ![](./media/image22.png)
 
 12. Repeat the same process to add the following users with their
     respective roles:
@@ -189,13 +189,13 @@ persona-based sign-ins and task execution.
 
 13. Click on the **ContactCenter Trial** environment.
 
-> ![](./media/image23.png)
+    ![](./media/image23.png)
 
 14. Copy the URL and save it in Notepad. This URL is used to log in to
     the Copilot Service Admin Center or the Copilot Service workspace by
     signing in with different user accounts.
 
-> ![](./media/image24.png)
+    ![](./media/image24.png)
 
 ## Exercise 4: Reset Passwords and Validate User Access
 
@@ -209,15 +209,15 @@ credentials needed to support future labs.
 
 2.  Open the required user account by selecting the user name.
 
-> ![](./media/image25.png)
+    ![](./media/image25.png)
 
 3.  From the top menu, select **Reset password**.
 
-> ![](./media/image26.png)
+    ![](./media/image26.png)
 
 4.  On the confirmation page, select **Reset password** again.
 
-> ![](./media/image27.png)
+    ![](./media/image27.png)
 
 5.  Review the generated sign-in details displayed on the screen.
 
@@ -225,7 +225,7 @@ credentials needed to support future labs.
 
 7.  Note the **Username** and **Password** for later sign-in.
 
-> ![](./media/image28.png)
+    ![](./media/image28.png)
 
 8.  Open a **new private (InPrivate/Incognito) browser window**.
 
@@ -235,21 +235,21 @@ credentials needed to support future labs.
 10. On the sign-in page, enter the **user tenant for David Flores** in
     the required field, and then click **Next**.
 
-![](./media/image29.png)
+    ![](./media/image29.png)
 
 11. Enter the **temporary password** that was extracted from the
     **Microsoft Admin Center**, and then click **Sign in**.
 
-![](./media/image30.png)
+    ![](./media/image30.png)
 
 12. When prompted, enter the **current (temporary) password**, then
     **set a new password** as required, and click **Sign in**.
 
-![](./media/image31.png)
+    ![](./media/image31.png)
 
 13. When asked **“Stay signed in?”**, click **Yes**.
 
-![](./media/image32.png)
+    ![](./media/image32.png)
 
 14. You will be redirected to the **David Flores Dynamics 365 app
     selector window**.
@@ -257,7 +257,7 @@ credentials needed to support future labs.
 15. The apps displayed in this window depend on the **roles assigned**
     to the user in the **Power Platform Admin Center environment**.
 
-![](./media/image33.png)
+    ![](./media/image33.png)
 
 16. Repeat the **same steps** to set up passwords for **all other
     users** that were created.
