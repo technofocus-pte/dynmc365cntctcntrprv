@@ -1,4 +1,4 @@
-# Lab 7 - Set up and integrate Knowledge management in Dynamics 365 with Copilot Agents
+# Lab 7 - Set up and integrate Knowledge management with Copilot Agents
 
 **Introduction**
 
