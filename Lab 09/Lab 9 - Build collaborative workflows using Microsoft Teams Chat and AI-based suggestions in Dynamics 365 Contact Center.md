@@ -1,3 +1,5 @@
+# Lab 9 - Build collaborative workflows using Microsoft Teams Chat and AI-based suggestions in Dynamics 365 Contact 
+
 **Introduction**
 
 This lab guide focuses on configuring Microsoft Teams Chat collaboration
@@ -24,26 +26,26 @@ Teams-based communication in the Contact Center environment.
     credentials. Admin tenant is assigned the required Global
     administrative role to perform this exercise.
 
-> ![](./media/image1.png)
+    ![](./media/image1.png)
 
 2.  In the **Copilot Service admin center**, go to **Support
     experience** and select **Collaboration**.
 
 3.  In **Embedded chat using Teams**, select **Manage**.
 
-> ![](./media/image2.png)
+    ![](./media/image2.png)
 
 4.  On the **Microsoft Teams collaboration and chat** page, turn on the
     toggle for **Turn on Microsoft Teams chats inside Dynamics 365** and
     select **Turn on for all Dynamics 365 apps**.
 
-> ![](./media/image3.png)
+    ![](./media/image3.png)
 
 5.  Next, set the toggle for **Turn on the linking of Dynamics 365
     records to Microsoft Teams channels** to **Yes**. This setting
     requires tenant admin permission.
 
-> ![](./media/image4.png)
+    ![](./media/image4.png)
 
 6.  Next, set the toggle for **Turn on Enhanced Microsoft Teams
     Integration** to **Yes**. This setting requires tenant admin
@@ -51,18 +53,18 @@ Teams-based communication in the Contact Center environment.
 
 7.  Sign in (if prompted) and then accept the consent.
 
-> ![](./media/image5.png)
+    ![](./media/image5.png)
 
 8.  Next, set the toggle for **Turn on Confidential Labels** to **Yes**.
     This setting requires tenant admin permission.
 
 9.  Sign in (if prompted) and then accept the consent.
 
-> ![](./media/image6.png)
+    ![](./media/image6.png)
 
 10. From the bottom-left corner, click **Save**.
 
-> ![](./media/image7.png)
+    ![](./media/image7.png)
 
 ## Task 2 - Configure chat connections for record types
 
@@ -72,25 +74,24 @@ Teams-based communication in the Contact Center environment.
 
 2.  In **Embedded chat using Teams**, select **Manage**.
 
-> ![](./media/image8.png)
+    ![](./media/image8.png)
 
 3.  Under **Connect chats to Dynamics 365 records**, select the record
     type you want to configure. For example, select **Case** record.
 
-> ![](./media/image9.png)
+    ![](./media/image9.png)
 
 4.  Click on the **Message view** field and select **All case**, then
     click **Save**.
 
-> ![](./media/image10.png)
+    ![](./media/image10.png)
 
 ## Task 3 - Add additional record types for chat connections
 
 1.  Under **Connect chats to Dynamics 365 records**, select **Add record
     types**.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/image11.png)
+    ![A screenshot of a computer Description automatically generated](./media/image11.png)
 
 2.  On the **Allow chats to be connected to this record type** page, in
     **Choose record type**, select the name of the record type you want
@@ -98,7 +99,7 @@ Teams-based communication in the Contact Center environment.
 
 3.  Select **Save**.
 
-> ![](./media/image12.png)
+    ![](./media/image12.png)
 
 ## Task 4 - Configure chat disconnection settings
 
@@ -111,13 +112,13 @@ Teams-based communication in the Contact Center environment.
 3.  Under **Connect chats with Dynamics 365 records**, select the record
     type you want to configure, for example, **Case**.
 
-> ![](./media/image13.png)
+    ![](./media/image13.png)
 
 4.  On the **Case settings** pane, in **Disconnecting chats**, toggle
     off **Chat connector can disconnect chats** and then click **Save**.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/image14.png)
+    ![A screenshot of a computer Description automatically
+    generated](./media/image14.png)
 
 ## Task 5 - Toggle join chat setting
 
@@ -131,14 +132,14 @@ Teams-based communication in the Contact Center environment.
     chats to Dynamics 365 records**, select the specific record type,
     for example, **Case**.
 
-> ![](./media/image13.png)
+    ![](./media/image13.png)
 
 4.  In the settings pane, toggle **Join chat** on or off.
 
 5.  Click **Save**.
 
-> ![A screenshot of a chat box AI-generated content may be
-> incorrect.](./media/image15.png)
+    ![A screenshot of a chat box AI-generated content may be
+    incorrect.](./media/image15.png)
 
 # Exercise 2 - Enable AI-based suggested contacts
 
@@ -154,7 +155,7 @@ processed organizational data.
 
 2.  In **Embedded chat using Teams**, select **Manage**.
 
-> ![](./media/image16.png)
+    ![](./media/image16.png)
 
 3.  To get suggested contacts for active cases or supported
     conversations, perform the following:
@@ -162,7 +163,7 @@ processed organizational data.
     1.  In **Connect chat to Dynamics 365 records**, select **Case**.
         The **Conversation settings** pane appears on the right.
 
-> ![](./media/image17.png)
+    ![](./media/image17.png)
 
 2.  In **Suggest contacts**, turn on the toggle for **AI-based suggested
     contacts** and then select **Save**.
@@ -170,7 +171,7 @@ processed organizational data.
 3.  Select **Save** on the **Microsoft Teams collaboration and chat**
     page to reflect the changes.
 
-> ![](./media/image18.png)
+    ![](./media/image18.png)
 
 4.  Note that it takes **24 hours** for the data to be preprocessed for
     first-time use.
@@ -189,7 +190,7 @@ are surfaced to users.
 
 2.  In **Embedded chat using Teams**, select **Manage**.
 
-> ![](./media/image19.png)
+    ![](./media/image19.png)
 
 3.  To get suggested contacts for any record type, perform the
     following:
@@ -198,13 +199,13 @@ are surfaced to users.
       type **Case** for which you want to enable rules-based suggested
       contacts. The related settings pane appears on the right.
 
-> ![](./media/image20.png)
+    ![](./media/image20.png)
 
 - In **Suggest contacts**, ensure the toggle for **Rules-based suggested
   contacts** is turned on. If it is already enabled and the **Save**
   option is inactive.
 
-> ![](./media/image21.png)
+    ![](./media/image21.png)
 
 1.  In the **Update rules for suggesting contacts** section on the
     **Case** record, reorder or disable the rules for suggesting
@@ -213,19 +214,19 @@ are surfaced to users.
     - To reorder the rules, hover over a rule, and then select the up or
       down arrow to move the rules.
 
-> ![](./media/image22.png)
+    ![](./media/image22.png)
 
 - To disable a rule, hover over a rule, and then select the disable
   icon. When the rule is disabled, a check mark is displayed when you
   hover over the disabled rule.
 
-> ![](./media/image23.png)
+    ![](./media/image23.png)
 
 - To delete a rule, hover over the rule, and then select the delete
   icon. Deleting a rule removes it entirely so it won’t influence
   suggested contacts in the future.
 
-> ![](./media/image24.png)
+    ![](./media/image24.png)
 
 4.  Select **Save**.
 
@@ -236,17 +237,17 @@ are surfaced to users.
 
 2.  Delete the rule.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/image25.png)
+    ![A screenshot of a computer Description automatically
+    generated](./media/image25.png)
 
 3.  From the bottom of the section, select **+ Add rule**.
 
-> ![](./media/image26.png)
+    ![](./media/image26.png)
 
 4.  The **Add rule** pane is displayed for the selected record type.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/image27.png)
+    ![A screenshot of a computer Description automatically
+    generated](./media/image27.png)
 
 5.  Enter the following information:
 
@@ -258,17 +259,17 @@ are surfaced to users.
 
 6.  Select **Save**.
 
-> ![](./media/image28.png)
+    ![](./media/image28.png)
 
 7.  A new rule is created. Select **Save** again.
 
-> ![](./media/image29.png)
+    ![](./media/image29.png)
 
 8.  Select **Save** on the **Microsoft Teams collaboration and chat**
     page.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/image30.png)
+    ![A screenshot of a computer Description automatically
+    generated](./media/image30.png)
 
 # Conclusion
 
