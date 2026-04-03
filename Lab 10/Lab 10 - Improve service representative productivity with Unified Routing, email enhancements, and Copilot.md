@@ -82,7 +82,7 @@ maintain visibility into their availability.
 
 4.  Click **+ New Case** and fill in the following details:
 
-    - Case title: +++**A Mineral Build Up in Water Supply+++**
+    - Case title: !!**A Mineral Build Up in Water Supply!!**
 
     - Subject: **Water Supply**
 
@@ -303,7 +303,7 @@ support operational efficiency.
 3.  Enter the following details in the field and then click **Save and
     Close**:
 
-    - Subject - +++Setup Warranty Account+++
+    - Subject - !!Setup Warranty Account!!
 
     - Regarding – **A mineral build Up in Water Supply**
 
@@ -462,11 +462,11 @@ work to knowledge creation.
 6.  Enter the following information on the **Basic Detail** tab and then
     select **Save and Close**:
 
-    - Case Title – +++Minerals level is not maintained+++
+    - Case Title – !!Minerals level is not maintained!!
 
-    - Customer – +++Claudia Mazzanti+++
+    - Customer – !!Claudia Mazzanti!!
 
-    - Subject – +++Water supply+++
+    - Subject – !!Water supply!!
 
     - Case Type - Problem
 
@@ -495,11 +495,11 @@ work to knowledge creation.
 2.  On the **Quick Create: Case** pane that appears on the right side,
     enter the following information and then select **Save and Close**:
 
-    - Case Type – +++Request+++
+    - Case Type – !!Request!!
 
-    - Customer – +++Claudia Mazzanti+++
+    - Customer – !!Claudia Mazzanti!!
 
-    - Case Title – +++Share a quotation for replacement+++
+    - Case Title – !!Share a quotation for replacement!!
 
 > ![](./media/image57.png)
 
@@ -613,7 +613,7 @@ delivery.
 
 6.  Select **Confirm**.
 
-7.  On the **Resolve Case** dialog box, enter the +++Demo resolution+++
+7.  On the **Resolve Case** dialog box, enter the !!Demo resolution!!
     and then select **Resolve**.
 
 > ![](./media/image75.png)
@@ -725,7 +725,7 @@ step that supports an improved email template selection experience.
 ### Task 1 - Enable the New Insert Template Dialog in a solution
 
 1.  Open a new tab in the browser, navigate to the Power Apps -
-    +++<https://make.preview.powerapps.com/+++>,
+    !!https://make.preview.powerapps.com/!!,
 
 2.  Log in to Power Apps by using **Mark Brown's** credentials. Mark
     Brown is assigned the required **System Administrator** role to
