@@ -1,4 +1,4 @@
-# Lab 8- Add a Knowledge article rich text editor control to the Email form
+# Lab 8 - Add a Knowledge article rich text editor control to the Email form
 
 **Introduction**
 

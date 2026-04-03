@@ -1,4 +1,4 @@
-## Lab 5 - Configure enhanced email experience and Inbox settings in Copilot Service
+## Lab 5 - Configure enhanced email experience and Inbox settings in Copilot Service admin center
 
 **Introduction**
 

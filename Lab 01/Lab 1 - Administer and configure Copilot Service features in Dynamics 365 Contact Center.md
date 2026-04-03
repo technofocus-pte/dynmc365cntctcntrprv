@@ -1,4 +1,4 @@
-# Lab 1 - Administer and configure Copilot Service features in Dynamics 365 Contact Center
+# Lab 1 - Administer and configure Dynamics 365 Contact Center
 
 **Duration: 35 minutes**
 

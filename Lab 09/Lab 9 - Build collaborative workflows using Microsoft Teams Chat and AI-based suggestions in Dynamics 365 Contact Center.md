@@ -1,4 +1,4 @@
-# Lab 9 - Build collaborative workflows using Microsoft Teams Chat and AI-based suggestions in Dynamics 365 Contact 
+# Lab 9 - Build collaborative workflows using Microsoft Teams Chat and AI-based suggestions in Dynamics 365 Contact Center
 
 **Introduction**
 

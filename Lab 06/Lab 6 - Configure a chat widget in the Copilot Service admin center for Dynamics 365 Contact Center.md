@@ -1,4 +1,4 @@
-# Lab 6 - Configure a chat widget in the Copilot Service admin center for Dynamics 365 Contact Center
+# Lab 6 - Configure a chat widget in Copilot Service admin center 
 
 **Introduction**
 
