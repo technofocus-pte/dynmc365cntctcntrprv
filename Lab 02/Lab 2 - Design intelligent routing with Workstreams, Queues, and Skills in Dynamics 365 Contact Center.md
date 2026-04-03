@@ -1,6 +1,6 @@
 # Lab 2 - Design intelligent routing with Workstreams, Queues, and Skills in Dynamics 365 Contact Center
 
-**Duration: 40 minutes**
+**Duration: 45 minutes**
 
 **Introduction**
 

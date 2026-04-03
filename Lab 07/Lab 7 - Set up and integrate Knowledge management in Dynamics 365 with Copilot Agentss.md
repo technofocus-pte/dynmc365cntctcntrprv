@@ -1,5 +1,7 @@
 # Lab 7 - Set up and integrate Knowledge management with Copilot Agents
 
+**Duration: 40**
+
 **Introduction**
 
 This lab guide focuses on configuring Knowledge Management in Dynamics

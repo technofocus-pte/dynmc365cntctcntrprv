@@ -1,5 +1,8 @@
 ## Lab 5 - Configure enhanced email experience and Inbox settings in Copilot Service admin center
 
+**Duration: 30 mins**
+
+
 **Introduction**
 
 This lab guide focuses on enabling the enhanced email experience in

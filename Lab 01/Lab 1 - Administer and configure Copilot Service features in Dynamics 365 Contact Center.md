@@ -1,6 +1,6 @@
 # Lab 1 - Administer and configure Dynamics 365 Contact Center
 
-**Duration: 35 minutes**
+**Duration: 30 minutes**
 
 **Introduction**
 

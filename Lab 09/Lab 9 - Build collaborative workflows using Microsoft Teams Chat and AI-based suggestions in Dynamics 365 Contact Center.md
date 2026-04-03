@@ -1,5 +1,8 @@
 # Lab 9 - Build collaborative workflows using Microsoft Teams Chat and AI-based suggestions in Dynamics 365 Contact Center
 
+**Duration: 45**
+
+
 **Introduction**
 
 This lab guide focuses on configuring Microsoft Teams Chat collaboration

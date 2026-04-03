@@ -1,5 +1,8 @@
 # Lab 4 - Configure Workforce Management and shift-based routing in Dynamics 365 Contact Center
 
+**Duration: 30 mins**
+
+
 **Introduction**
 
 This lab guide focuses on enabling workforce management capabilities in

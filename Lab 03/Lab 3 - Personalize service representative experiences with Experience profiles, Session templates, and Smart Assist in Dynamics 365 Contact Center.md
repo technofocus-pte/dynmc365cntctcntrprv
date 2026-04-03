@@ -1,5 +1,7 @@
 # Lab 3 - Personalize service representative experiences with Experience profiles, Session templates, and Smart Assist in Dynamics 365 Contact Center
 
+**Duration: 30 mins**
+
 **Introduction**
 
 This lab guide focuses on configuring the workspace and guided

@@ -1,5 +1,8 @@
 # Lab 6 - Configure a chat widget in Copilot Service admin center 
 
+**Duration: 30 mins**
+
+
 **Introduction**
 
 This lab guide focuses on creating and configuring a chat widget in the

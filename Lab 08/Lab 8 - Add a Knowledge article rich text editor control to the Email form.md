@@ -1,5 +1,8 @@
 # Lab 8 - Add a Knowledge article rich text editor control to the Email form
 
+**Duration: 40**
+
+
 **Introduction**
 
 This lab guide focuses on updating the Email form in Power Apps by

@@ -1,5 +1,8 @@
 # Lab 10 - Improve service representative productivity with Unified Routing, email enhancements, and Copilot
 
+**Duration: 120**
+
+
 **Introduction**  
 This lab guide focuses on improving the day-to-day productivity of
 service representatives in Dynamics 365 Contact Center. Learners work in
