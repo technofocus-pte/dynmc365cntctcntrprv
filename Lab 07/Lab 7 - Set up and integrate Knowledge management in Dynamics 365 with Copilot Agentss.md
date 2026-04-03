@@ -34,24 +34,22 @@ types, such as **Account**, and configure automatic search behavior.
     assigned the System Administrator and Omnichannel Administrator
     roles.
 
-> Note: If you have any confusion about the login. Revisit Exercise 4 of
-> Lab 0.
->
-> ![](./media/image1.png)
+    > Note: If you have any confusion about the login. Revisit Exercise 4 of Lab 0.
+
+    ![](./media/image1.png)
 
 2.  Click on **App selector** to display the list of apps.
 
 3.  Select the **Copilot Service Admin center** from the list of Apps.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/image2.png)
+    ![A screenshot of a computer Description automatically generated](./media/image2.png)
 
 4.  Select **Knowledge** in **Support experience**. The **Knowledge**
     page appears.
 
 5.  In the **Record types** section, select **Manage**.
 
-> ![](./media/image3.png)
+    ![](./media/image3.png)
 
 6.  On the **Record Types** page, review the available record types that
     can be configured for knowledge management.
@@ -59,11 +57,11 @@ types, such as **Account**, and configure automatic search behavior.
 7.  By default, knowledge management is enabled for **Case** and
     **Conversation** record types.
 
-> ![](./media/image4.png)
+    ![](./media/image4.png)
 
 8.  On the **Record Types** page, select **Add**.
 
-> ![](./media/image5.png)
+    ![](./media/image5.png)
 
 9.  The **Add record type** dialog appears.
 
@@ -76,7 +74,7 @@ types, such as **Account**, and configure automatic search behavior.
 
 13. Select **Save and Close**.
 
-> ![](./media/image6.png)
+    ![](./media/image6.png)
 
 ### Task 2 - Configure Knowledge general settings
 
@@ -88,7 +86,7 @@ search, authoring, and global display options.
 2.  In the **General Settings** section, select **Manage**. The
     **General Settings** page appears.
 
-> ![](./media/image7.png)
+    ![](./media/image7.png)
 
 3.  In the **Search results display count** section:
 
@@ -97,7 +95,7 @@ search, authoring, and global display options.
     - In the **Feedback** section, set the **Enable feedback** toggle to
       **Yes**
 
-> ![](./media/image8.png)
+    ![](./media/image8.png)
 
 4.  In the **Authoring language** section:
 
@@ -109,7 +107,7 @@ search, authoring, and global display options.
     - Set the **Allow users to set default knowledge authoring
       language** toggle to **Yes**
 
-> ![](./media/image9.png)
+    ![](./media/image9.png)
 
 5.  In the **Knowledge search experience** section, enable the following
     as required:
@@ -120,17 +118,17 @@ search, authoring, and global display options.
 
     - **Show recently accessed knowledge articles** - **Yes**
 
-> ![](./media/image10.png)
+    ![](./media/image10.png)
 
 6.  In the **Global search knowledge configuration** section, switch the
     **Enable Kb preview mode from global search option** toggle to
     **Yes**.
 
-> ![](./media/image11.png)
+    ![](./media/image11.png)
 
 7.  Scroll up towards the top of the page and select **Save**.
 
-> ![](./media/image12.png)
+    ![](./media/image12.png)
 
 ### Task 3 - Create a Knowledge category
 
@@ -142,26 +140,26 @@ and retrieval.
 
 2.  In the **Categories** section, select **Manage**.
 
-> ![](./media/image13.png)
+    ![](./media/image13.png)
 
 3.  The **Categories System Views** page appears. You can create and
     manage a logical structure of categories for your records.
 
 4.  On the command bar, select **New** to create a new category record.
 
-> ![](./media/image14.png)
+    ![](./media/image14.png)
 
 5.  Enter the required information in the **General** section:
 
-    - **Title:** +++Contoso Demo Category+++
+    - **Title:** !!Contoso Demo Category!!
 
-    - **Description:** +++Contoso Demo Category+++
+    - **Description:** !!Contoso Demo Category!!
 
-    - **Display Order:** +++1+++
+    - **Display Order:** !!1!!
 
 6.  Select **Save & Close**.
 
-> ![](./media/image15.png)
+    ![](./media/image15.png)
 
 ### Task 4 - Manage search filters
 
@@ -172,7 +170,7 @@ agents to refine their search experience in the knowledge base.
 
 2.  In the **Filters** section, select **Manage**.
 
-> ![](./media/image16.png)
+    ![](./media/image16.png)
 
 3.  Make sure that the **Enable search filters** toggle is set to
     **Yes**.
@@ -183,7 +181,7 @@ agents to refine their search experience in the knowledge base.
 
 5.  Select **Save**.
 
-> ![](./media/image17.png)
+    ![](./media/image17.png)
 
 ### Task 5 - Configure Knowledge portal settings
 
@@ -196,7 +194,7 @@ define how attachments are synchronized to the portal.
 2.  In the **Portal** section, select **Manage**. The **Portals** page
     appears.
 
-> ![](./media/image18.png)
+    ![](./media/image18.png)
 
 3.  In the **Support portal connection** section, review the options
     available.
@@ -215,14 +213,14 @@ define how attachments are synchronized to the portal.
 7.  The placeholder, **{kbnum}**, is replaced by an actual knowledge
     article number.
 
-8.  Enter Demo URL: +++ <http://webserver.contoso.com/kb/%7Bkbnum%7D+++>
+8.  Enter Demo URL: !!http://webserver.contoso.com/kb/%7Bkbnum%7D!!
 
 9.  In the **Sync knowledge article attachments to portal** section, set
     the **Sync attachments to the portal** toggle to **Yes**.
 
 10. Select **Save**.
 
-> ![](./media/image19.png)
+    ![](./media/image19.png)
 
 ## Exercise 2 - Create and integrate a Copilot Agent
 
@@ -239,83 +237,83 @@ for **Microsoft Dataverse** and **Content Conversion**, then link them
 to your flows.
 
 1.  Open a new tab and navigate to Power Apps portal
-    +++<https://make.powerapps.com/+++>.
+    !!https://make.powerapps.com/!!.
 
 2.  Sign in with the **Mark Brown** credentials.
 
 3.  Select the **ContactCenter Trial** environment on the top right
     corner of the home page.
 
-> ![](./media/image20.png)
+    ![](./media/image20.png)
 
 4.  Select **More** from the left navigation and then select
     **Connections**.
 
-> ![](./media/image21.png)
+    ![](./media/image21.png)
 
 5.  From top command bar select **+ New connection**.
 
-> ![](./media/image22.png)
+    ![](./media/image22.png)
 
 6.  Search for **Dataverse** and then select **Microsoft Dataverse**.
 
-> ![](./media/image23.png)
+    ![](./media/image23.png)
 
 7.  Select **Create**. Sign in with your credentials if prompted.
 
-> ![](./media/image24.png)
+    ![](./media/image24.png)
 
 8.  Again from top command bar select **New connection**.
 
-> ![](./media/image25.png)
+    ![](./media/image25.png)
 
 9.  Search and select **Content Conversion**.
 
-> ![](./media/image26.png)
+    ![](./media/image26.png)
 
 10. Select **Create**. Sign in with your credentials if prompted.
 
-> ![](./media/image27.png)
+    ![](./media/image27.png)
 
 11. From the left navigation of the Power Apps portal, select
     **Solutions** and then select **Default Solution**.
 
-> ![](./media/image28.png)
+    ![](./media/image28.png)
 
 12. From the left navigation, select **Connection references** and then
     select **Microsoft Dataverse**.
 
 13. Click on the **Edit** from the top bar.
 
-> ![](./media/image29.png)
+    ![](./media/image29.png)
 
 14. In the edit box that opens, select the connection that you created
     from the **Connection** dropdown menu.
 
 15. Select **Save** and then **Save changes**.
 
-> ![](./media/image30.png)
->
-> ![](./media/image31.png)
+    ![](./media/image30.png)
+
+    ![](./media/image31.png)
 
 16. Similarly, select **Content Conversion** and then click on the
     **Edit** button.
 
-> ![](./media/image32.png)
+    ![](./media/image32.png)
 
 17. In the edit box that opens, select the connection that you created
     from the **Connection** dropdown menu. Click on the **Save** button.
 
-> ![](./media/image33.png)
+    ![](./media/image33.png)
 
 18. Select **Save changes**.
 
-> ![](./media/image34.png)
+    ![](./media/image34.png)
 
 19. Go back to **Default Solution** \> **Cloud flows** and turn on
     **Search Dynamics 365 knowledge article flow** .
 
-> ![](./media/image35.png)
+    ![](./media/image35.png)
 
 ### Task 2 - Create a Copilot Agent
 
@@ -323,22 +321,22 @@ In this task, you will create a Copilot Agent in Copilot Studio and
 configure it to use the **Search Dynamics 365 Knowledge Article** flow.
 
 1.  Open a tab in the browser and go to the Copilot Studio home page -
-    +++[https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio+++](https://copilotstudio.microsoft.com/+++).
+    !!https://copilotstudio.microsoft.com/!!.
     Click on the **Try Free.**
 
-> ![](./media/image36.png)
+    ![](./media/image36.png)
 
 2.  Enter the Mark Brown credentials in the field and click on the
     **Next** button **and Sign in.**
 
-> ![](./media/image37.png)
->
-> ![](./media/image38.png)
+    ![](./media/image37.png)
+
+    ![](./media/image38.png)
 
 3.  Enter the required details in the field and click on **Get
     Started.**
 
-> ![](./media/image39.png)
+    ![](./media/image39.png)
 
 4.  Accept the free trial.
 
@@ -347,32 +345,28 @@ configure it to use the **Search Dynamics 365 Knowledge Article** flow.
 6.  Select the environment as **ContactCenter Trial** on top right
     corner of the homepage.
 
-> ![](./media/image40.png)
->
-> **Note:** If you are unable to sign in to Copilot Studio or cannot
-> switch the environment, open **Power Platform admin center** and sign
-> in with **Mark Brown’s credentials**. Go to the **ContactCenter
-> Trial** environment and copy the **Environment ID**.
->
-> ![](./media/image41.png)
->
-> ![](./media/image42.png)
->
-> Then return to the Copilot Studio page and update the URL by replacing
-> the default environment ID with the copied **Environment ID**.
->
-> ![](./media/image43.png)
->
-> ![](./media/image44.png)
+    ![](./media/image40.png)
+
+    > **Note:** If you are unable to sign in to Copilot Studio or cannot switch the environment, open **Power Platform admin center** and sign in with **Mark Brown’s credentials**. Go to the **ContactCenter Trial** environment and copy the **Environment ID**.
+
+    ![](./media/image41.png)
+
+    ![](./media/image42.png)
+
+    > Then return to the Copilot Studio page and update the URL by replacing the default environment ID with the copied **Environment ID**.
+
+    ![](./media/image43.png)
+
+    ![](./media/image44.png)
 
 7.  Click on **Agent** from the left menu and then select **+ Create
     blank agent**.
 
-> ![](./media/image45.png)
+    ![](./media/image45.png)
 
 8.  Wait for a few seconds. Your agent is created successfully.
 
-> ![](./media/image46.png)
+    ![](./media/image46.png)
 
 ### Task 3 - Create a topic in the Copilot Agent
 
@@ -383,23 +377,23 @@ user queries about store timings.
 
 2.  On the top menu bar, select **Topics**.
 
-> ![](./media/image47.png)
+    ![](./media/image47.png)
 
 3.  Select **Add a topic** and select **From blank**.
 
-> ![](./media/image48.png)
+    ![](./media/image48.png)
 
-4.  In the top left corner, enter the name of the topic as +++Store
-    hours+++
+4.  In the top left corner, enter the name of the topic as !!Store
+    hours!!
 
-> ![](./media/image49.png)
+    ![](./media/image49.png)
 
-5.  In the describe field of trigger node, enter +++Store hours, what
-    time do you open?, Are you open on Sunday+++ in the field.
+5.  In the describe field of trigger node, enter !!Store hours, what
+    time do you open?, Are you open on Sunday!! in the field.
 
 6.  Select **Save** from top right corner.
 
-> ![](./media/image50.png)
+    ![](./media/image50.png)
 
 ### Task 4 - Add the Knowledge Article flow to the topic
 
@@ -411,7 +405,7 @@ variables.
 
 2.  Select **Search Dynamics 365 knowledge article flow** action.
 
-> ![](./media/image51.png)
+    ![](./media/image51.png)
 
 3.  Provide the input to the flow. An error might appear if the filter
     isn’t provided to the flow.
@@ -419,31 +413,29 @@ variables.
 4.  Click on the **Search Text Input** option on the action note,
     navigate to **system** and select **Activity.Name Variable**.
 
-> ![](./media/image52.png)
+    ![](./media/image52.png)
 
 5.  Repeat the same process on **Filter Input** and select
     **Activity.Recipient.ID** variable.
 
-> ![](./media/image53.png)
+    ![](./media/image53.png)
 
 6.  Under **Action** node click on the **(+)** and then select **Send a
     message** node.
 
-> ![](./media/image54.png)
+    ![](./media/image54.png)
 
 7.  On the **Message** node click on the **{X} add variable** button and
     in **custom variable** select **textResult** variable.
 
-> ![](./media/image55.png)
+    ![](./media/image55.png)
 
 8.  From top right corner click on the **Save** button to save the
     topic.
 
-> ![](./media/image56.png)
->
-> **Tip:** If your search doesn’t return any results, modify the search
-> terms or filter conditions. You can also add a filter condition if
-> required.
+    ![](./media/image56.png)
+
+    > **Tip:** If your search doesn’t return any results, modify the search terms or filter conditions. You can also add a filter condition if required.
 
 ## Conclusion
 
