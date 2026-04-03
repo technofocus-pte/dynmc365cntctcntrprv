@@ -23,13 +23,13 @@ planning and shift-based management capabilities that support more
 structured customer service operations.
 
 1.  Navigate to the Power Platform admin center:
-    +++<https://admin.powerplatform.microsoft.com/+++>.
+    !!<https://admin.powerplatform.microsoft.com/>!!.
 
 2.  Sign in by using **Mark Brown's** credentials. Mark Brown is
     assigned the **System Administrator** and **Omnichannel
     Administrator** roles.
 
-> ![](./media/image1.png)
+    ![](./media/image1.png)
 
 3.  From the left navigation pane, select **Manage**.
 
@@ -37,28 +37,28 @@ structured customer service operations.
 
 5.  Open the **ContactCenter service trial** environment.
 
-> ![](./media/image2.png)
+    ![](./media/image2.png)
 
 6.  On the command bar, select **Resources** \> **Dynamics 365 apps**.
 
-> ![](./media/image3.png)
+    ![](./media/image3.png)
 
 7.  On the **Dynamics 365 apps** page, select **Install app**.
 
-> ![](./media/image4.png)
+    ![](./media/image4.png)
 
 8.  From the available apps list, select **Workforce Management for
     Customer Service**.
 
 9.  Select **Next** to continue.
 
-> ![](./media/image5.png)
+    ![](./media/image5.png)
 
 10. Select the **Agree to the terms of service** checkbox.
 
 11. Select **Install**.
 
-> ![](./media/image6.png)
+    ![](./media/image6.png)
 
 12. Wait for the installation to complete on the **Dynamics 365 apps**
     page.
@@ -66,12 +66,12 @@ structured customer service operations.
 **Note:** The installation may take approximately 15 minutes to
 complete.
 
-> ![](./media/image7.png)
+    ![](./media/image7.png)
 
 13. Verify that **Workforce Management for Customer Service** is
     installed successfully.
 
-> ![](./media/image8.png)
+    ![](./media/image8.png)
 
 ## Exercise 2 - Enable Shift-Based Routing
 
@@ -89,27 +89,27 @@ and available during the appropriate time.
     center**. Refresh the portal to ensure the newly installed app
     components are available.
 
-> ![](./media/image9.png)
+    ![](./media/image9.png)
 
 3.  In the site map, under **Operations**, select **Workforce
     management**.
 
-> ![](./media/image10.png)
+    ![](./media/image10.png)
 
 4.  In the **Shift-based routing (preview)** section, select **Manage**.
 
-> ![](./media/image11.png)
+    ![](./media/image11.png)
 
 5.  On the **Shift-based routing** page, turn on the **Enable routing
     based on shift bookings** toggle.
 
 6.  Select **Save and Close**.
 
-> ![](./media/image12.png)
+    ![](./media/image12.png)
 
 7.  Verify that the shift-based routing feature is enabled successfully.
 
-> ![](./media/image13.png)
+    ![](./media/image13.png)
 
 ## Conclusion
 
