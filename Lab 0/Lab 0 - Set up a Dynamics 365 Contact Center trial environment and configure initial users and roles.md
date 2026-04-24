@@ -4,51 +4,8 @@
 
 **Introduction** This lab introduces the foundational setup required to prepare a Dynamics 365 Contact Center trial environment for future hands-on activities. Learners activate the trial, create the required user accounts, add those users to the environment, assign security roles, and validate sign-in access so each persona is ready for upcoming administrative, supervisory, and agent-based tasks.
 
-## Exercise 1: Enable the Dynamics 365 Contact Center Trial Environment
 
-In this exercise, learners activate the Dynamics 365 Contact Center
-trial environment from the Microsoft trial portal and complete the
-verification steps required to provision the environment successfully.
-By the end of the exercise, the organization is ready to access the
-Copilot Service workspace and continue with the remaining setup tasks.
-
-1.  Open Microsoft Edge in the virtual machine.
-
-2.  In the browser, paste and open the following link:!!https://www.microsoft.com/en-in/dynamics-365/free-trial!!
-
-3.  Scroll down to the **Dynamics 365 Contact Center** section.
-
-4.  Select **Try for free**.
-
-    ![](./media/image1.png)
-
-5.  Enter the Microsoft 365 admin tenant details.
-
-6.  Accept the agreement terms.
-
-7.  Select **Start your free trial**.
-
-    ![](./media/image2.png)
-
-8.  On the verification page, set **Country/Region** to **United
-    States**.
-
-9.  Enter the required **Phone number** and **submit** the details.
-
-    ![](./media/image3.png)
-
-    > Note: If a direct sign-in page appears, enter the admin tenant and password, and then select **Sign in**.
-
-10. Wait for the process to complete and verify that you are navigated
-    to the **Copilot Service workspace**.
-
-11. If a browser pop-up requests microphone access, select **Allow while
-    visiting the site**. If no pop-up appears, continue to the next
-    exercise.
-
-    ![](./media/image4.png)
-
-## Exercise 2: Create Initial Users in Microsoft 365 Admin Center
+## Exercise 1: Create Initial Users in Microsoft 365 Admin Center
 
 This exercise focuses on creating the initial user accounts in the
 Microsoft 365 admin center for the personas used throughout the lab
@@ -121,7 +78,7 @@ and role-based exercises.
 
     - !!Megan Bowen!!
 
-## Exercise 3: Add Users to the Environment and Assign Security Roles
+## Exercise 2: Add Users to the Environment and Assign Security Roles
 
 In this exercise, learners add the newly created users to the Contact
 Center trial environment and assign the security roles required for
@@ -197,7 +154,7 @@ persona-based sign-ins and task execution.
 
     ![](./media/image24.png)
 
-## Exercise 4: Reset Passwords and Validate User Access
+## Exercise 3: Reset Passwords and Validate User Access
 
 This exercise finalizes the setup by resetting temporary passwords and
 validating that each user can successfully sign in to the environment.
