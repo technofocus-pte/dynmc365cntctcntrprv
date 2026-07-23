@@ -49,11 +49,11 @@ support tools.
 6.  On the **Create a new experience profile** dialog, enter the
     following details:
 
-    - **Name**: +++Contoso Agent+++
+    - **Name**: !!Contoso Agent!!
 
-    - **Unique name**: +++msdyn_custom_chatagent+++
+    - **Unique name**: !!msdyn_custom_chatagent!!
 
-    - **Description**: +++Contoso Agent+++
+    - **Description**: !!Contoso Agent!!
 
 7.  Select **Create**.
 
@@ -105,7 +105,7 @@ support tools.
 
     ![](./media/image10.png)
 
-4.  Enter the required **rank number +++1+++**.
+4.  Enter the required **rank number !!1!!**.
 
     ![A screenshot of a computer AI-generated content may be incorrect.](./media/image11.png)
 
@@ -156,15 +156,15 @@ workspace experience for handling customer interactions.
 6.  On the **New Session Templates** page, in the **General** tab,
     specify the following:
 
-    - **Name** – +++Contoso Session+++
+    - **Name** – !!Contoso Session!!
 
-    - **Unique Name** – +++msdyn_chat_custom+++
+    - **Unique Name** – !!msdyn_chat_custom!!
 
     - **Type** – Entity
 
     - **Entity** – Case
 
-    - **Title** – +++{CustomerName}+++
+    - **Title** – !!{CustomerName}!!
 
     - **Communication panel mode** – Hidden
 
@@ -251,7 +251,7 @@ associated with the workstream.
 ### Task 1 - Register an Application in Microsoft Entra ID
 
 1.  Open a new browser tab and navigate to the Microsoft Entra admin
-    center: +++<https://entra.microsoft.com/+++>.
+    center: !!<https://entra.microsoft.com/!!>.
 
 2.  Sign in by using the Mark Brown credentials.
 
@@ -269,7 +269,7 @@ associated with the workstream.
 
     ![](./media/image32.png)
 
-6.  Enter the application name as +++Contoso App+++.
+6.  Enter the application name as !!Contoso App!!.
 
 7.  Select **Register**.
 
@@ -283,7 +283,7 @@ associated with the workstream.
 ### Task 2 - Create an Application User in Power Platform
 
 1.  Open a new browser tab and navigate to the Power Platform admin
-    center: +++<https://admin.powerplatform.com/+++>. Log in with Mark
+    center: !!<https://admin.powerplatform.com/!!>. Log in with Mark
     Brown credentials.
 
 2.  Select **Manage** \> **Environments** from the left navigation pane.
@@ -312,7 +312,7 @@ associated with the workstream.
 
     ![](./media/image40.png)
 
-9.  In the **Business unit** field, enter +++Org+++ and select the trial
+9.  In the **Business unit** field, enter !!Org!! and select the trial
     environment business unit.
 
 10. In the **Security roles** field, select **Edit**.
@@ -411,12 +411,12 @@ workspace.
 
 4.  On the **New Script** page, specify the following:
 
-    - **Name** – +++Chat session script+++
+    - **Name** – !!Chat session script!!
 
-    - **Unique Name** – +++Contoso_script+++
+    - **Unique Name** – !!Contoso_script!!
 
-    - **Description** – +++This agent script is used for chat
-      sessions.+++
+    - **Description** – !!This agent script is used for chat
+      sessions.!!
 
 5.  Select **Save**.
 
@@ -428,16 +428,16 @@ workspace.
 
 7.  On the **New Script step** form, specify the following:
 
-    - **Name** – +++Greet the customer+++
+    - **Name** – !!Greet the customer!!
 
-    - **Unique Name** – +++Greet_script+++
+    - **Unique Name** – !!Greet_script!!
 
-    - **Order** – +++1+++
+    - **Order** – !!1!!
 
     - **Action type** – Text
 
-    - **Text instructions** – +++Greet the customer with the welcome
-      message+++
+    - **Text instructions** – !!Greet the customer with the welcome
+      message!!
 
 8.  Select **Save and Close**.
 
