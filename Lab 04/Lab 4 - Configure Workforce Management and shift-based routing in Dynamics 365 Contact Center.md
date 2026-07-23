@@ -21,7 +21,7 @@ planning and shift-based management capabilities that support more
 structured customer service operations.
 
 1.  Navigate to the Power Platform admin center:
-    +++<https://admin.powerplatform.microsoft.com/+++>.
+    !!<https://admin.powerplatform.microsoft.com/!!>.
 
 2.  Sign in by using **Mark Brown's** credentials. Mark Brown is
     assigned the **System Administrator** and **Omnichannel
