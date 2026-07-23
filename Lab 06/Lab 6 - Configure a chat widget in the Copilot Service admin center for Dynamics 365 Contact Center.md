@@ -37,7 +37,7 @@ customer-facing chat experience for real-time support.
 
 6.  On the **Channel details** page, enter the following:
 
-    - **Name** – +++Contoso Chat Widget+++
+    - **Name** – !!Contoso Chat Widget!!
 
     - **Language** – **English – United States**
 
@@ -86,7 +86,7 @@ customer-facing chat experience for real-time support.
 
 19. In the **Automated message** box, enter:
 
-    +++Hi, how can I help you?+++
+    !!Hi, how can I help you?!!
 
 20. Select **Confirm**.
 
@@ -100,10 +100,10 @@ customer-facing chat experience for real-time support.
 
 23. Enter the following survey details:
 
-    - **Survey question name**: +++ContosoConsent+++
+    - **Survey question name**: !!ContosoConsent!!
 
-    - **Question text**: +++We collect demographic data. Please confirm
-    whether you agree to provide the basic information.+++
+    - **Question text**: !!We collect demographic data. Please confirm
+    whether you agree to provide the basic information.!!
 
     - **Answer type**: **User consent**
 
@@ -119,9 +119,9 @@ customer-facing chat experience for real-time support.
 
 26. Enter the following survey details:
 
-    - **Survey question name**: +++FirstName+++
+    - **Survey question name**: !!FirstName!!
 
-    - **Question text**: +++FirstName+++
+    - **Question text**: !!FirstName!!
 
     - **Answer type**: **Single line**
 
@@ -137,9 +137,9 @@ customer-facing chat experience for real-time support.
 
 29. Enter the following survey details:
 
-    - **Survey question name**: +++LastName+++
+    - **Survey question name**: !!LastName!!
 
-    - **Question text**: +++LastName+++
+    - **Question text**: !!LastName!!
 
     - **Answer type**: **Single line**
 
@@ -155,9 +155,9 @@ customer-facing chat experience for real-time support.
 
 32. Enter the following survey details:
 
-    - **Survey question name**: +++Age+++
+    - **Survey question name**: !!Age!!
 
-    - **Question text**: +++Enter your Age+++
+    - **Question text**: !!Enter your Age!!
 
     - **Answer type**: **Single line**
 
