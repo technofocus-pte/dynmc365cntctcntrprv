@@ -63,16 +63,16 @@ representative development.
 
 1.  On the **Add quality indicator** page, enter the following:
 
-    - Quality indicator name: +++Greeting and empathy+++
+    - Quality indicator name: !!Greeting and empathy!!
 
-    - Description: +++Measures whether the representative greeted the
-      customer professionally and showed empathy.+++
+    - Description: !!Measures whether the representative greeted the
+      customer professionally and showed empathy.!!
 
 2.  Under **Questions**, add the first question. Select **Add question**
     and enter:
 
-    - Question text: +++Did the representative greet the customer politely
-      and introduce themselves?+++
+    - Question text: !!Did the representative greet the customer politely
+      and introduce themselves?!!
 
     - Type of answers: select **Yes/No**.
 
@@ -86,8 +86,8 @@ representative development.
 
 3.  Add a second question. Select **Add question** again and enter:
 
-    - Question text: +++How well did the representative acknowledge the
-      customer's concern?+++
+    - Question text: !!How well did the representative acknowledge the
+      customer's concern?!!
 
     - Type of answers: select **Multiple choice**.
 
@@ -133,16 +133,16 @@ from making unauthorized commitments, then activate it.
 
 2.  On the **Add guardrail** page, enter the following:
 
-    - Guardrail name: +++No unauthorized commitments+++
+    - Guardrail name: !!No unauthorized commitments!!
 
-    - Description: +++Representatives must not promise refunds, discounts,
-      or delivery dates that require supervisor approval.+++
+    - Description: !!Representatives must not promise refunds, discounts,
+      or delivery dates that require supervisor approval.!!
 
     - Priority: select **High** to indicate urgency (options are Low,
       Medium, or High).
 
-    - Nudge text: +++Avoid promising refunds or dates without approval.
-      Offer to check and follow up.+++
+    - Nudge text: !!Avoid promising refunds or dates without approval.
+      Offer to check and follow up.!!
 
     - Select **Suggest next response** to allow AI-generated guidance when a
       violation is detected.
@@ -190,9 +190,9 @@ and guardrail from the previous exercises.
 
 5.  In **General details**, provide the following, then select **Next**:
 
-    - Plan name: +++Trial quality plan – messaging+++
+    - Plan name: !!Trial quality plan – messaging!!
 
-    - Description: +++Evaluates greeting, empathy, and
+    - Description: !!Evaluates greeting, empathy, and
       unauthorized-commitment guardrail on closed messaging conversations.
 
     - Quality criteria: select the **Greeting and empathy** indicator and
@@ -308,7 +308,7 @@ a worked example; the same steps apply to any template.
 3.  In the **Playbook editor**, accept the default name or enter a
     descriptive name in **Playbook name**. For this lab, enter:
 
-    - Playbook name: +++Gold tier wait-time escalation+++
+    - Playbook name: !!Gold tier wait-time escalation!!
 
     ![](./media/image24.png)
 
