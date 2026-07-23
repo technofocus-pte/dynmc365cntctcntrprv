@@ -132,7 +132,7 @@ environment. They verify the required AI configuration that supports
 Copilot experiences and intelligent search capabilities.
 
 1.  Open a new tab in the browser. Sign in to the Power Platform admin
-    center - +++https://admin.powerplatform.microsoft.com/+++ With the
+    center - !!https://admin.powerplatform.microsoft.com/!! With the
     **Mark Brown** credentials.
 
 2.  From the left side panel, select the **Manage** option and then
@@ -242,7 +242,7 @@ workloads and supports efficient work assignment.
 4.  On the **Details** tab of the **Create capacity profile** dialog
     box, enter the following details:
 
-    - **Profile name**: Name for the capacity profile as +++Demo+++
+    - **Profile name**: Name for the capacity profile as !!Demo!!
 
     - **Work item limit**: Number of units of the work type that you can
       assign to the agent. – Enter - 5
