@@ -150,11 +150,11 @@ and retrieval.
 
 5.  Enter the required information in the **General** section:
 
-    - **Title:** +++Contoso Demo Category+++
+    - **Title:** !!Contoso Demo Category!!
 
-    - **Description:** +++Contoso Demo Category+++
+    - **Description:** !!Contoso Demo Category!!
 
-    - **Display Order:** +++1+++
+    - **Display Order:** !!1!!
 
 6.  Select **Save & Close**.
 
@@ -212,7 +212,7 @@ define how attachments are synchronized to the portal.
 7.  The placeholder, **{kbnum}**, is replaced by an actual knowledge
     article number.
 
-8.  Enter Demo URL: +++ <http://webserver.contoso.com/kb/%7Bkbnum%7D+++>
+8.  Enter Demo URL: !! <http://webserver.contoso.com/kb/%7Bkbnum%7D!!>
 
 9.  In the **Sync knowledge article attachments to portal** section, set
     the **Sync attachments to the portal** toggle to **Yes**.
@@ -236,7 +236,7 @@ for **Microsoft Dataverse** and **Content Conversion**, then link them
 to your flows.
 
 1.  Open a new tab and navigate to Power Apps portal
-    +++<https://make.powerapps.com/+++>.
+    !!<https://make.powerapps.com/!!>.
 
 2.  Sign in with the **Mark Brown** credentials.
 
@@ -320,7 +320,7 @@ In this task, you will create a Copilot Agent in Copilot Studio and
 configure it to use the **Search Dynamics 365 Knowledge Article** flow.
 
 1.  Open a tab in the browser and go to the Copilot Studio home page -
-    +++[https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio+++](https://copilotstudio.microsoft.com/+++).
+    !![https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio!!](https://copilotstudio.microsoft.com/!!).
     Click on the **Try Free.**
 
     ![](./media/image36.png)
@@ -363,7 +363,7 @@ configure it to use the **Search Dynamics 365 Knowledge Article** flow.
 
     ![](./media/image45.png)
 
-8.  Enter +++Contoso Agent+++ in the name field and click on the create
+8.  Enter !!Contoso Agent!! in the name field and click on the create
     button.
 
     ![](./media/4597a4a1686bb28a8817d846b77660690cc8a145.png)
@@ -385,13 +385,13 @@ user queries about store timings.
 
     ![](./media/7881cd5d58510f6c05aa060b406f061563ddb18e.png)
 
-4.  In the top left corner, enter the name of the topic as +++Store
-    hours+++
+4.  In the top left corner, enter the name of the topic as !!Store
+    hours!!
 
     ![](./media/fb1940ddb44217df1b7923a7c711b12475649967.png)
 
-5.  In the describe field of trigger node, enter +++Store hours, what
-    time do you open?, Are you open on Sunday?+++ in the field.
+5.  In the describe field of trigger node, enter !!Store hours, what
+    time do you open?, Are you open on Sunday?!! in the field.
 
     ![](./media/cfaf915d763e4a40f2fd33dc2d070016b9587621.png)
 
