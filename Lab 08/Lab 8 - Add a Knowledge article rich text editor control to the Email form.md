@@ -13,7 +13,7 @@ in the email experience.
 Email form
 
 1.  Open a tab in the browser, paste the Power Apps URL –
-    +++https://make.powerapps.com+++. Click on the Sign In button. Login
+    !!https://make.powerapps.com!!. Click on the Sign In button. Login
     with Mark Brown credentials.
 
     ![](./media/image1.png)
@@ -51,7 +51,7 @@ Email form
     ![](./media/image8.png)
 
 9.  Paste the below text under static value -
-    +++**webResources/msdyncrm\_/RichTextEditorControl/KnowledgeArticleRTEconfig.js**+++
+    !!**webResources/msdyncrm\_/RichTextEditorControl/KnowledgeArticleRTEconfig.js**!!
 
 10. Select **Done**, and then select **Save and Publish**.
 
