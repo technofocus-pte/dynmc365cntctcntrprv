@@ -55,7 +55,7 @@ support flow.
 
 6.  Enter the following details:
 
-    - **Name**: Enter an intuitive name - +++Contoso chat workstream+++
+    - **Name**: Enter an intuitive name - !!Contoso chat workstream!!
 
     - **Type**: Select **Messaging**
 
@@ -136,11 +136,11 @@ Contact Center environment.
 
 4.  In the **Create a queue** dialog, enter the following details:
 
-    - **Name**: +++**Contoso queue for supervisors**+++
+    - **Name**: !!**Contoso queue for supervisors**!!
 
     - **Type**: Select **Messaging**
 
-    - **Queue Priority**: +++**1**+++
+    - **Queue Priority**: !!**1**!!
 
     - Select **Create**
 
@@ -172,8 +172,8 @@ Contact Center environment.
     ![A screenshot of a computer Description automatically
   generated](./media/image20.png)
 
-10. On the **New Operating Hour** page, enter +++**Contoso operation
-    hours**+++ in the **Name** field and **Description** field.
+10. On the **New Operating Hour** page, enter !!**Contoso operation
+    hours**!! in the **Name** field and **Description** field.
 
 11. Click **Save & Close** to navigate back to the **Contoso queue for
     supervisors** page.
@@ -246,9 +246,9 @@ improve consistency, precision, and business-driven work distribution.
     **Logical rules** under **Rule type** and then enter the following
     details.
 
-    - **Name –** +++Contoso ruleset+++
+    - **Name –** !!Contoso ruleset!!
 
-    - **Description –** +++Contoso ruleset+++
+    - **Description –** !!Contoso ruleset!!
 
     - Click **Create**
 
@@ -262,7 +262,7 @@ improve consistency, precision, and business-driven work distribution.
 6.  On the **Create work classification rule** dialog, enter the
     following details in the **Conditions** area.
 
-    - **Rule Name** - +++Set service level+++
+    - **Rule Name** - !!Set service level!!
 
     - Select **+ Add** and then select **Add related entity**.
 
@@ -298,8 +298,8 @@ improve consistency, precision, and business-driven work distribution.
     ![](./media/image36.png)
 
 3.  On the **Create route-to-queues ruleset** pane, in the **Name**
-    field enter+++**Based on Gold Level**+++. In the **Description**
-    field enter +++**Rule based on Gold level**+++.
+    field enter!!**Based on Gold Level**!!. In the **Description**
+    field enter !!**Rule based on Gold level**!!.
 
 4.  Select **Create**.
 
@@ -313,7 +313,7 @@ improve consistency, precision, and business-driven work distribution.
 1.  On the **Create route to queue rule** dialog, enter the following
     details.
 
-    - **Name** – +++**Based on Gold level**+++
+    - **Name** – !!**Based on Gold level**!!
 
     - Select **+ Add** and then select **Add related entity**.
 
@@ -368,8 +368,8 @@ users.
 
     ![](./media/image45.png)
 
-6.  In the **Create work assignment** dialog, enter +++Contoso work
-    assignment+++ in the **Name** field and **Description** field and
+6.  In the **Create work assignment** dialog, enter !!Contoso work
+    assignment!! in the **Name** field and **Description** field and
     then select **Create**.
 
     ![A screenshot of a computer Description automatically
@@ -379,8 +379,8 @@ users.
 
     ![](./media/image47.png)
 
-8.  On the **Create Prioritization Ruleset** dialog, enter +++Contoso
-    prioritization ruleset+++ in the **Name** field and **Description**
+8.  On the **Create Prioritization Ruleset** dialog, enter !!Contoso
+    prioritization ruleset!! in the **Name** field and **Description**
     field.
 
 9.  Select **Create**.
@@ -392,8 +392,8 @@ users.
 
     ![](./media/image49.png)
 
-11. On the **Create Prioritization Rule Dialog**, enter +++Contoso
-    prioritization rule+++ in the **Name** field.
+11. On the **Create Prioritization Rule Dialog**, enter !!Contoso
+    prioritization rule!! in the **Name** field.
 
 12. Select **+ Add** and then select **Add related entity**.
 
@@ -424,8 +424,8 @@ users.
     ![Graphical user interface, text, application Description
   automatically generated](./media/image53.png)
 
-20. On the **Create Assignment Ruleset** dialog, enter +++Contoso
-    assignment ruleset+++ in the **Name** field and **Description**
+20. On the **Create Assignment Ruleset** dialog, enter !!Contoso
+    assignment ruleset!! in the **Name** field and **Description**
     field.
 
 21. Click **Create**.
@@ -438,8 +438,8 @@ users.
 
     ![](./media/image55.png)
 
-23. **On the Create Assignment rule** page, enter +++Contoso assignment
-    rule+++ in the **Name** field.
+23. **On the Create Assignment rule** page, enter !!Contoso assignment
+    rule!! in the **Name** field.
 
     ![](./media/image56.png)
 
@@ -513,12 +513,12 @@ supports more accurate service delivery.
 
 4.  Specify the following in the **New Characteristic** page.
 
-- **Name** - +++Spanish+++
+- **Name** - !!Spanish!!
 
   **Type** - Skill
 
-  **Description** - +++This record is used to define the skill level of
-  the Spanish language+++
+  **Description** - !!This record is used to define the skill level of
+  the Spanish language!!
 
 5.  Select **Save & Close** from top bar.
 
@@ -542,11 +542,11 @@ supports more accurate service delivery.
 
 4.  Specify the following in the **New Rating Model** page.
 
-- **Name** - +++Language rating model+++
+- **Name** - !!Language rating model!!
 
-  **Min Rating Value** - +++1+++
+  **Min Rating Value** - !!1!!
 
-  **Max Rating Value** - +++10+++
+  **Max Rating Value** - !!10!!
 
 5.  Select **Save**.
 
@@ -561,9 +561,9 @@ supports more accurate service delivery.
 
 8.  Specify the following.
 
-    **Name** - +++Language rating value+++
+    **Name** - !!Language rating value!!
 
-    **Value** - +++10+++
+    **Value** - !!10!!
 
 9.  Select **Save & Close** to save and add the rating value to the
     grid.
