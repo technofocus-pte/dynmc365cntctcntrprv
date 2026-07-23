@@ -13,7 +13,7 @@ Copilot Service workspace and continue with the remaining setup tasks.
 1.  Open Microsoft Edge in the virtual machine.
 
 2.  In the browser, paste and open the following link:
-    +++https://www.microsoft.com/en-in/dynamics-365/free-trial+++
+    !!https://www.microsoft.com/en-in/dynamics-365/free-trial!!
 
 3.  Scroll down to the **Dynamics 365 Contact Center** section.
 
@@ -55,7 +55,7 @@ the accounts are available for later configuration, access validation,
 and role-based exercises.
 
 1.  Open a browser and navigate to the Microsoft 365 admin center:
-    +++https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-administration+++
+    !!https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-administration!!
 
 2.  Select **Admin sign in**.
 
@@ -78,13 +78,13 @@ and role-based exercises.
 
 6.  In the user creation form, enter the following details:
 
-    - **First name**: +++Mark+++
+    - **First name**: !!Mark!!
 
-    - **Last name**: +++Brown+++
+    - **Last name**: !!Brown!!
 
     - **Display name**: Mark Brown
 
-    - **User name**: +++MarkBrown+++
+    - **User name**: !!MarkBrown!!
 
 7.  Select all required checkboxes, and then select **Next**.
 
@@ -128,7 +128,7 @@ the environment URL, which will be reused in later labs for
 persona-based sign-ins and task execution.
 
 1.  Open a new tab, navigate to the Power Platform admin center:
-    +++https://admin.powerplatform.microsoft.com/+++
+    !!https://admin.powerplatform.microsoft.com/!!
 
 2.  Sign in using the Microsoft 365 admin tenant credentials.
 
@@ -151,7 +151,7 @@ persona-based sign-ins and task execution.
 
     ![](./media/image18.png)
 
-8.  In the search field, enter +++**Mark Brown**+++.
+8.  In the search field, enter !!**Mark Brown**!!.
 
 9.  Select **Mark Brown** from the search results, and then select
     **Add**.
